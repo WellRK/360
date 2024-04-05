@@ -1,4 +1,4 @@
-<h1 align="center">IMOVEISTOCK-API</h1>
+<h1 align="center">API</h1>
 
 ## :computer: Requisitos
 
